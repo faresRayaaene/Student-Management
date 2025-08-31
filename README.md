@@ -1,5 +1,5 @@
 
-**EduTrack** is a Node.js RESTful API built with **MongoDB**.  
+**Student Management** is a Node.js RESTful API built with **MongoDB**.  
 It allows educational institutions to manage **students, notes, and complaints**, providing a clean backend for tracking and updating student data efficiently.
 
 
